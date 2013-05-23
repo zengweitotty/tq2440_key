@@ -1,0 +1,1 @@
+cmd_/work/driver_program/tq2440_key/tq2440_key.ko := arm-linux-ld -EL -r   --build-id -o /work/driver_program/tq2440_key/tq2440_key.ko /work/driver_program/tq2440_key/tq2440_key.o /work/driver_program/tq2440_key/tq2440_key.mod.o
